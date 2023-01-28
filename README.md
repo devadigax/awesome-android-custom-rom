@@ -12,7 +12,8 @@ A Custom Rom Based On AOSP (Android Open Source Project) Crafted With Love. With
 An android custom ROM based on AOSP, which provides a stock experience along with customization features.
 ### [ArrowOS](https://arrowos.net/)
 An AOSP based project started with the goal of keeping things simple, clean, and organized. We added features that will be helpful in the long run, while aiming to deliver smooth performance and longer battery life.
-### [BharOS](https://en.wikipedia.org/wiki/BharOS)
+### [BharOS](https://en.wikipedia.org/wiki/BharOS) ![image](https://user-images.githubusercontent.com/35224169/215275005-a1906b5b-e687-49c4-8587-2bc604d3ccca.png)(https://en.wikipedia.org/wiki/BharOS)
+
 BharOS is a mobile operating system designed by IIT Madras.[1] It is an Indian government-funded project to develop a free and open-source operating system (OS) for use in government and public systems.[2] It is being called as a fork of AOSP.
 ### [CandyRom](https://candyroms.org/)
 Candy is based on AOSP (the Android Open Source Project), with CAF (Code Aurora Forums) hardware support added in. Our goal is to enhance battery life and performance, while bringing an ever-expanding, but practical customization level to the user experience.
