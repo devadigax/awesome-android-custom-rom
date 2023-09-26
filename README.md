@@ -23,6 +23,7 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 - [Evolution X](#evolution-x)
 - [ExthmUI](#exthmui)
 - [Fork LineageOS](#fork-lineageos)
+- [GrapheneOS](#grapheneos)
 - [Havoc OS](#havoc-os)
 - [Hentai OS](#hentai-os)
 - [Hycon OS](#hycon-os)
@@ -159,6 +160,11 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 
 - **Website**: [Fork LineageOS GitHub](https://github.com/ForkLineageOS)
 - **Description**: [Provide a description here.]
+
+### GrapheneOS
+
+- **Website**: [GrapheneOS Website](https://grapheneos.org/)
+- **Description**: GrapheneOS is an Android-based, open source, privacy and security-focused mobile operating system for selected Google Pixel smartphones
 
 ### Havoc OS
 
