@@ -124,7 +124,8 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 ### CrDroid
 
 - **Website**: [CrDroid Official Website](https://crdroid.net/)
-- **Description**: [Provide a description here.]
+- **Description**: Improve the performance, reliability and customizability of your Android device
+- **Github**: [crdroidandroid](https://github.com/crdroidandroid)
 
 ### Cygnus OS
 
@@ -219,7 +220,8 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 ### Pixel Experience
 
 - **Website**: [Pixel Experience Downloads](https://download.pixelexperience.org/)
-- **Description**: [Provide a description here.]
+- **Description**: PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation).
+- **Github**: [PixelExperience](https://github.com/PixelExperience)
 
 ### Pixel Extended
 
@@ -354,12 +356,14 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 ### Xtended XS
 
 - **Website**: [Xtended XS Official Website](https://project-xtended.org/)
-- **Description**: [Provide a description here.]
+- **Description**: Custom ROM Redefined
+- **Github**: [Project-Xtended](https://github.com/Project-Xtended)
 
 ### YAAP (Yet Another AOSP Project)
 
 - **Website**: [YAAP Official Website](https://yaosp.dev/)
-- **Description**: [Provide a description here.]
+- **Description**: YAAP is a project founded by Adhitya Mohan (@poad42) and Ido Ben-Hur (@idoybh) with the goal of staying close to AOSP in design goals, offer a clean interface, do as much as original development as possible and avoid becoming a kitchen sink and cherry picked mess.
+- **Telegram**: [yaapcommon](https://t.me/yaapcommon)
 
 
 ## Contributing
