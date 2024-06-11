@@ -23,10 +23,12 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 - [Evolution X](#evolution-x)
 - [ExthmUI](#exthmui)
 - [Fork LineageOS](#fork-lineageos)
+- [GenesisOS](#genesisos)
 - [GrapheneOS](#grapheneos)
 - [Havoc OS](#havoc-os)
 - [Hentai OS](#hentai-os)
 - [Hycon OS](#hycon-os)
+- [iode OS](#iode-os)
 - [LegionOS](#legionos)
 - [LineageOS](#lineageos)
 - [NusantaraProject](#nusantaraproject)
@@ -54,8 +56,11 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 - [Resurrection Remix](#resurrection-remix)
 - [RevengeOS](#revengeos)
 - [RiceDroid](#ricedroid)
+- [RisingOS](#risingos)
 - [ShapeShift OS](#shapeshift-os)
+- [SigmaDroid OS](#sigmadroid-os)
 - [Spark OS](#spark-os)
+- [Something OS](#something-os)
 - [StatiXOS](#statixos)
 - [Superior OS](#superior-os)
 - [VoltageOS](#voltageos)
@@ -162,6 +167,14 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 - **Website**: [Fork LineageOS GitHub](https://github.com/ForkLineageOS)
 - **Description**: [Provide a description here.]
 
+### GenesisOS
+
+- **Website**: [GenesisOS Website](https://www.genesisos.dev/)
+- **Description**: GenesisOS is a Custom After Market OS based on AOSP with nifty little Quality of Life features to enhance your daily driving experience.
+- **Github**: [GenesisOS](https://github.com/GenesisOS)
+- **Telegram**: [GenesisOS](https://telegram.me/thegenesisOS)
+- **X**: [GenesisOS](https://x.com/TheGenesisOS)
+
 ### GrapheneOS
 
 - **Website**: [GrapheneOS Website](https://grapheneos.org/)
@@ -181,6 +194,12 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 
 - **Website**: [Hycon OS GitHub](https://github.com/HyconOS)
 - **Description**: [Provide a description here.]
+
+### iode OS
+
+- **Website**: [iodéOS Website](https://iode.tech/iodeos-en/)
+- **Description**: iodéOS is an android operating system freed from Google trackers*. A significant part of data breaches comes upstream of apps.
+iodéOS is powered by “LineageOS”, an open source OS that expands functionalities and the lifespan of mobile devices of more than 20 different manufacturers thanks to a community of contributors across the world. The Trust interface will help you understand the security of your device and warn incoming threats.
 
 ### LegionOS
 
@@ -318,10 +337,22 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 - **Website**: [RiceDroid GitHub](https://github.com/RiceDroid-devices)
 - **Description**: [Provide a description here.]
 
+### RisingOS
+
+- **Website**: [RiceDroid SourceForge](https://sourceforge.net/projects/risingos-official/)
+- **Description**: [Provide a description here.]
+
 ### ShapeShift OS
 
 - **Website**: [ShapeShift OS SourceForge](https://sourceforge.net/projects/shapeshiftos/)
 - **Description**: [Provide a description here.]
+
+### SigmaDroid OS
+
+- **Website**: [SigmaDroid Website](https://sigmadroid.xyz/)
+- **Description**: A Custom AOSP ROM that isn't at the whim of some "Alpha". We do our own thing here.
+- **Github**: [SigmaDroid-Project](https://github.com/SigmaDroid-Project)
+- **Telegram**: [SigmaDroidROMChat](https://t.me/SigmaDroidROMChat)
 
 ### Spark OS
 
@@ -332,6 +363,12 @@ This is a curated list of awesome custom ROMs for Android devices. Each ROM offe
 
 - **Website**: [StatiXOS GitHub](https://github.com/StatiXOS)
 - **Description**: [Provide a description here.]
+
+### Something OS
+
+- **Website**: [SomethingOS Website](https://somethingos.com/)
+- **Description**: Welcome to the official website of SomethingOS, a custom ROM for Android. CLO based, SomethingOS brings a few exclusives features such as AdBlocker, Boot Animation changer and much more !
+- **Github**: [SomethingOS](https://github.com/SomethingOS)
 
 ### Superior OS
 
