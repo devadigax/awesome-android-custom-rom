@@ -1,412 +1,67 @@
-# Awesome Custom ROMs
-
-This is a curated list of awesome custom ROMs for Android devices. Each ROM offers unique features and customization options to enhance your Android experience.
-
-## Table of Contents
-
-- [AICP (Android Ice Project)](#aicp-android-ice-project)
-- [Ancient OS](#ancient-os)
-- [AOSiP (Android Open Source Illusion Project)](#aosip-android-open-source-illusion-project)
-- [AOSP Extended](#aosp-extended)
-- [ArrowOS](#arrowos)
-- [CandyRom](#candyrom)
-- [CarbonROM](#carbonrom)
-- [Cherish OS](#cherish-os)
-- [CipherOS](#cipheros)
-- [ColtOS](#coltos)
-- [Corvus OS](#corvus-os)
-- [CrDroid](#crdroid)
-- [Cygnus OS](#cygnus-os)
-- [DerpFest](#derpfest)
-- [Descendant](#descendant)
-- [DotOS (Droid On Time)](#dotos-droid-on-time)
-- [Evolution X](#evolution-x)
-- [ExthmUI](#exthmui)
-- [Fork LineageOS](#fork-lineageos)
-- [GenesisOS](#genesisos)
-- [GrapheneOS](#grapheneos)
-- [Havoc OS](#havoc-os)
-- [Hentai OS](#hentai-os)
-- [Hycon OS](#hycon-os)
-- [iode OS](#iode-os)
-- [LegionOS](#legionos)
-- [LineageOS](#lineageos)
-- [NusantaraProject](#nusantaraproject)
-- [OctaviOS](#octavios)
-- [Palladium OS](#palladium-os)
-- [Paranoid Android](#paranoid-android)
-- [Pixel Blaster](#pixel-blaster)
-- [Pixel Experience](#pixel-experience)
-- [Pixel Extended](#pixel-extended)
-- [Pixel OS](#pixel-os)
-- [PixelDust](#pixeldust)
-- [PixelPlusUI](#pixelplusui)
-- [Pixys OS](#pixys-os)
-- [POSP (Potato Open Sauce Project)](#posp-potato-open-sauce-project)
-- [Project 404](#project-404)
-- [Project Arcana](#project-arcana)
-- [Project Awaken](#project-awaken)
-- [Project Blaze](#project-blaze)
-- [Project Elixr](#project-elixr)
-- [Project Fluid](#project-fluid)
-- [Project Lighthouse](#project-lighthouse)
-- [Project Radiant](#project-radiant)
-- [Project Sakura](#project-sakura)
-- [RavenOS](#ravenos)
-- [Resurrection Remix](#resurrection-remix)
-- [RevengeOS](#revengeos)
-- [RiceDroid](#ricedroid)
-- [RisingOS](#risingos)
-- [ShapeShift OS](#shapeshift-os)
-- [SigmaDroid OS](#sigmadroid-os)
-- [Spark OS](#spark-os)
-- [Something OS](#something-os)
-- [StatiXOS](#statixos)
-- [Superior OS](#superior-os)
-- [VoltageOS](#voltageos)
-- [WaveOS](#waveos)
-- [XPerience CAF](#xperience-caf)
-- [Xtended XS](#xtended-xs)
-- [YAAP (Yet Another AOSP Project)](#yaap-yet-another-aosp-project)
-
-## Introduction
-
-### AICP (Android Ice Project)
-
-- **Website**: [AICP Official Website](https://www.aicp-rom.com/)
-- **Description**: AICP is a customized version of Android that offers customizations as well as a clean UI environment with a lot of things to further customize.
-
-### Ancient OS
-
-- **Website**: [Ancient OS Official Website](https://www.ancientrom.xyz/)
-- **Description**: A Custom Rom Based On AOSP (Android Open Source Project) Crafted With Love. With The Aim To Provide "Performance", "Security" And "Stability", With Multiple Customisation Option.
-
-### AOSiP (Android Open Source Illusion Project)
-
-- **Website**: [AOSiP Official Website](https://aosip.dev/)
-- **Description**: [Provide a description here.]
-
-### AOSP Extended
-
-- **Website**: [AOSP Extended on GitHub](https://github.com/AospExtended)
-- **Description**: An android custom ROM based on AOSP, which provides a stock experience along with customization features.
-
-### ArrowOS
-
-- **Website**: [ArrowOS Official Website](https://arrowos.net/)
-- **Description**: An AOSP based project started with the goal of keeping things simple, clean, and organized. We added features that will be helpful in the long run, while aiming to deliver smooth performance and longer battery life.
-
-### CandyRom
-
-- **Website**: [CandyRom Official Website](https://candyroms.org/)
-- **Description**: Candy is based on AOSP (the Android Open Source Project), with CAF (Code Aurora Forums) hardware support added in. Our goal is to enhance battery life and performance, while bringing an ever-expanding, but practical customization level to the user experience.
-
-### CarbonROM
-
-- **Website**: [CarbonROM Official Website](https://carbonrom.org/)
-- **Description**: CarbonROM is an aftermarket firmware based on the Android Open Source Project created with the purpose of adding versatility and customization to stock Android. Stability is our highest priority; our vision is to be the best alternative to a stock operating system for your device.
-
-### Cherish OS
-
-- **Website**: [Cherish OS Official Website](https://cherishos.com/)
-- **Description**: [Provide a description here.]
-
-### CipherOS
-
-- **Website**: [CipherOS Official Website](https://cipheros.github.io/)
-- **Description**: [Provide a description here.]
-
-### ColtOS
-
-- **Website**: [ColtOS Official SourceForge](https://sourceforge.net/projects/coltos/)
-- **Description**: [Provide a description here.]
-
-### Corvus OS
-
-- **Website**: [Corvus OS Official Website](https://www.corvusrom.com/)
-- **Description**: [Provide a description here.]
-
-### CrDroid
-
-- **Website**: [CrDroid Official Website](https://crdroid.net/)
-- **Description**: Improve the performance, reliability and customizability of your Android device
-- **Github**: [crdroidandroid](https://github.com/crdroidandroid)
-
-### Cygnus OS
-
-- **Website**: [Cygnus OS Official Website](https://cygnusos.com/)
-- **Description**: [Provide a description here.]
-
-### DerpFest
-
-- **Website**: [DerpFest Official Website](https://derpfest.org/)
-- **Description**: [Provide a description here.]
-
-### Descendant
-
-- **Website**: [Descendant Official Downloads](https://downloads.descendant.me/)
-- **Description**: [Provide a description here.]
-
-### DotOS (Droid On Time)
-
-- **Website**: [DotOS Official Website](https://www.droidontime.com/)
-- **Description**: [Provide a description here.]
-
-### Evolution X
-
-- **Website**: [Evolution X Official Website](https://evolution-x.org/)
-- **Description**: [Provide a description here.]
-
-### ExthmUI
-
-- **Website**: [ExthmUI GitHub](https://github.com/exthmui)
-- **Description**: [Provide a description here.]
-
-### Fork LineageOS
-
-- **Website**: [Fork LineageOS GitHub](https://github.com/ForkLineageOS)
-- **Description**: [Provide a description here.]
-
-### GenesisOS
-
-- **Website**: [GenesisOS Website](https://www.genesisos.dev/)
-- **Description**: GenesisOS is a Custom After Market OS based on AOSP with nifty little Quality of Life features to enhance your daily driving experience.
-- **Github**: [GenesisOS](https://github.com/GenesisOS)
-- **Telegram**: [GenesisOS](https://telegram.me/thegenesisOS)
-- **X**: [GenesisOS](https://x.com/TheGenesisOS)
-
-### GrapheneOS
-
-- **Website**: [GrapheneOS Website](https://grapheneos.org/)
-- **Description**: GrapheneOS is an Android-based, open source, privacy and security-focused mobile operating system for selected Google Pixel smartphones
-
-### Havoc OS
-
-- **Website**: [Havoc OS Official Website](https://havoc-os.com/)
-- **Description**: [Provide a description here.]
-
-### Hentai OS
-
-- **Website**: [Hentai OS Wiki](https://wiki.helluvaos.com/)
-- **Description**: [Provide a description here.]
-
-### Hycon OS
-
-- **Website**: [Hycon OS GitHub](https://github.com/HyconOS)
-- **Description**: [Provide a description here.]
-
-### iode OS
-
-- **Website**: [iodéOS Website](https://iode.tech/iodeos-en/)
-- **Description**: iodéOS is an android operating system freed from Google trackers*. A significant part of data breaches comes upstream of apps.
-iodéOS is powered by “LineageOS”, an open source OS that expands functionalities and the lifespan of mobile devices of more than 20 different manufacturers thanks to a community of contributors across the world. The Trust interface will help you understand the security of your device and warn incoming threats.
-
-### LegionOS
-
-- **Website**: [LegionOS SourceForge](https://sourceforge.net/projects/legionrom/)
-- **Description**: [Provide a description here.]
-
-### LineageOS
-
-- **Website**: [LineageOS Official Website](https://lineageos.org/)
-- **Description**: [Provide a description here.]
-
-### NusantaraProject
-
-- **Website**: [NusantaraProject Official Website](https://nusantararom.org/)
-- **Description**: [Provide a description here.]
-
-### OctaviOS
-
-- **Website**: [OctaviOS Official Website](https://octavi-os.com/)
-- **Description**: [Provide a description here.]
-
-### Palladium OS
-
-- **Website**: [Palladium OS Official Website](https://palladiumos.com/)
-- **Description**: [Provide a description here.]
-
-### Paranoid Android
-
-- **Website**: [Paranoid Android Official Website](https://paranoidandroid.co/)
-- **Description**: [Provide a description here.]
-
-### Pixel Blaster
-
-- **Website**: [Pixel Blaster SourceForge](https://sourceforge.net/projects/pixelblaster-os/)
-- **Description**: [Provide a description here.]
-
-### Pixel Experience
-
-- **Website**: [Pixel Experience Downloads](https://download.pixelexperience.org/)
-- **Description**: PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation).
-- **Github**: [PixelExperience](https://github.com/PixelExperience)
-
-### Pixel Extended
-
-- **Website**: [Pixel Extended Official Website](https://pixelextended.ninja/)
-- **Description**: [Provide a description here.]
-
-### Pixel OS
-
-- **Website**: [Pixel OS Official Website](https://pixelos.net/)
-- **Description**: [Provide a description here.]
-
-### PixelDust
-
-- **Website**: [PixelDust Official Website](https://www.pixeldust.in/)
-- **Description**: [Provide a description here.]
-
-### PixelPlusUI
-
-- **Website**: [PixelPlusUI Official Website](https://ppui.site/home)
-- **Description**: [Provide a description here.]
-
-### Pixys OS
-
-- **Website**: [Pixys OS Official Website](https://pixysos.com/)
-- **Description**: [Provide a description here.]
-
-### POSP (Potato Open Sauce Project)
-
-- **Website**: [POSP Official Website](https://potatoproject.co/)
-- **Description**: [Provide a description here.]
-
-### Project 404
-
-- **Website**: [Project 404 GitHub](https://github.com/P-404)
-- **Description**: [Provide a description here.]
-
-### Project Arcana
-
-- **Website**: [Project Arcana SourceForge](https://sourceforge.net/projects/project-arcana-releases/)
-- **Description**: [Provide a description here.]
-
-### Project Awaken
-
-- **Website**: [Project Awaken SourceForge](https://sourceforge.net/projects/project-awaken/)
-- **Description**: [Provide a description here.]
-
-### Project Blaze
-
-- **Website**: [Project Blaze Official Website](https://www.projectblaze.live/)
-- **Description**: [Provide a description here.]
-
-### Project Elixr
-
-- **Website**: [Project Elixr Official Website](https://projectelixiros.com/home)
-- **Description**: [Provide a description here.]
-
-### Project Fluid
-
-- **Website**: [Project Fluid Official Website](https://projectfluid.org/)
-- **Description**: [Provide a description here.]
-
-### Project Lighthouse
-
-- **Website**: [Project Lighthouse SourceForge](https://sourceforge.net/projects/project-lighthouse/)
-- **Description**: [Provide a description here.]
-
-### Project Radiant
-
-- **Website**: [Project Radiant SourceForge](https://sourceforge.net/projects/projectradiant/)
-- **Description**: [Provide a description here.]
-
-### Project Sakura
-
-- **Website**: [Project Sakura SourceForge](https://sourceforge.net/projects/projectsakura/)
-- **Description**: [Provide a description here.]
-
-### RavenOS
-
-- **Website**: [RavenOS Official Website](https://raveos.com/)
-- **Description**: [Provide a description here.]
-
-### Resurrection Remix
-
-- **Website**: [Resurrection Remix Official Website](https://resurrectionremix.com/)
-- **Description**: [Provide a description here.]
-
-### RevengeOS
-
-- **Website**: [RevengeOS Official Website](https://revengeos.com/)
-- **Description**: [Provide a description here.]
-
-### RiceDroid
-
-- **Website**: [RiceDroid GitHub](https://github.com/RiceDroid-devices)
-- **Description**: [Provide a description here.]
-
-### RisingOS
-
-- **Website**: [RiceDroid SourceForge](https://sourceforge.net/projects/risingos-official/)
-- **Description**: [Provide a description here.]
-
-### ShapeShift OS
-
-- **Website**: [ShapeShift OS SourceForge](https://sourceforge.net/projects/shapeshiftos/)
-- **Description**: [Provide a description here.]
-
-### SigmaDroid OS
-
-- **Website**: [SigmaDroid Website](https://sigmadroid.xyz/)
-- **Description**: A Custom AOSP ROM that isn't at the whim of some "Alpha". We do our own thing here.
-- **Github**: [SigmaDroid-Project](https://github.com/SigmaDroid-Project)
-- **Telegram**: [SigmaDroidROMChat](https://t.me/SigmaDroidROMChat)
-
-### Spark OS
-
-- **Website**: [Spark OS Official Website](https://spark-os.live/)
-- **Description**: [Provide a description here.]
-
-### StatiXOS
-
-- **Website**: [StatiXOS GitHub](https://github.com/StatiXOS)
-- **Description**: [Provide a description here.]
-
-### Something OS
-
-- **Website**: [SomethingOS Website](https://somethingos.com/)
-- **Description**: Welcome to the official website of SomethingOS, a custom ROM for Android. CLO based, SomethingOS brings a few exclusives features such as AdBlocker, Boot Animation changer and much more !
-- **Github**: [SomethingOS](https://github.com/SomethingOS)
-
-### Superior OS
-
-- **Website**: [Superior OS SourceForge](https://sourceforge.net/projects/superioros/)
-- **Description**: [Provide a description here.]
-
-### VoltageOS
-
-- **Website**: [VoltageOS SourceForge](https://sourceforge.net/projects/voltage-os/)
-- **Description**: [Provide a description here.]
-
-### WaveOS
-
-- **Website**: [WaveOS SourceForge](https://sourceforge.net/projects/wave-os/)
-- **Description**: [Provide a description here.]
-
-### XPerience CAF
-
-- **Website**: [XPerience CAF SourceForge](https://sourceforge.net/projects/xperience-aosp/)
-- **Description**: [Provide a description here.]
-
-### Xtended XS
-
-- **Website**: [Xtended XS Official Website](https://project-xtended.org/)
-- **Description**: Custom ROM Redefined
-- **Github**: [Project-Xtended](https://github.com/Project-Xtended)
-
-### YAAP (Yet Another AOSP Project)
-
-- **Website**: [YAAP Official Website](https://yaosp.dev/)
-- **Description**: YAAP is a project founded by Adhitya Mohan (@poad42) and Ido Ben-Hur (@idoybh) with the goal of staying close to AOSP in design goals, offer a clean interface, do as much as original development as possible and avoid becoming a kitchen sink and cherry picked mess.
-- **Telegram**: [yaapcommon](https://t.me/yaapcommon)
-
-
-## Contributing
-
-If you know of an awesome custom ROM that should be included in this list, please submit a pull request or open an issue to suggest it.
-
-## License
-
-This list is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+| Icon | Name | Description | Links |
+|------|------|-------------|-------|
+| ![AICP](https://avatars.githubusercontent.com/u/5502699?s=200&v=4) | AICP (Android Ice Project) | A customized version of Android offering customizations and a clean UI environment. | [Website](https://www.aicp-rom.com/) |
+| ![Ancient OS](https://avatars.githubusercontent.com/u/71782459?s=200&v=4) | Ancient OS | A custom ROM based on AOSP with a focus on performance, security, and stability. | [Website](https://www.ancientrom.xyz/) |
+| ![AOSiP](https://avatars.githubusercontent.com/u/31174133?s=200&v=4) | AOSiP (Android Open Source Illusion Project) | [Provide a description here.] | [Website](https://aosip.dev/) |
+| ![AOSP Extended](https://avatars.githubusercontent.com/u/21023438?s=200&v=4) | AOSP Extended | An Android custom ROM based on AOSP with stock experience and customization features. | [GitHub](https://github.com/AospExtended) |
+| ![ArrowOS](https://avatars.githubusercontent.com/u/40351870?s=200&v=4) | ArrowOS | A simple, clean, and organized AOSP-based project with added features for smooth performance and battery life. | [Website](https://arrowos.net/) |
+| ![CandyRom](https://avatars.githubusercontent.com/u/16696849?s=200&v=4) | CandyRom | A ROM based on AOSP with CAF hardware support added in, aiming to enhance battery life and performance. | [Website](https://candyroms.org/) |
+| ![CarbonROM](https://avatars.githubusercontent.com/u/9575752?s=200&v=4) | CarbonROM | An aftermarket firmware based on AOSP created to add versatility and customization to stock Android. | [Website](https://carbonrom.org/) |
+| ![Cherish OS](https://avatars.githubusercontent.com/u/63174434?s=200&v=4) | Cherish OS | [Provide a description here.] | [Website](https://cherishos.com/) |
+| ![CipherOS](https://avatars.githubusercontent.com/u/76622178?s=200&v=4) | CipherOS | [Provide a description here.] | [Website](https://cipheros.github.io/) |
+| ![ColtOS](https://avatars.githubusercontent.com/u/42505619?s=200&v=4) | ColtOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/coltos/) |
+| ![Corvus OS](https://avatars.githubusercontent.com/u/68912088?s=200&v=4) | Corvus OS | [Provide a description here.] | [Website](https://www.corvusrom.com/) |
+| ![CrDroid](https://avatars.githubusercontent.com/u/9610671?s=200&v=4) | CrDroid | Improve the performance, reliability, and customizability of your Android device. | [Website](https://crdroid.net/), [GitHub](https://github.com/crdroidandroid) |
+| ![Cygnus OS](https://cygnusos.com/assets/images/logo.png) | Cygnus OS | [Provide a description here.] | [Website](https://cygnusos.com/) |
+| ![DerpFest](https://derpfest.org/img/logo.png) | DerpFest | [Provide a description here.] | [Website](https://derpfest.org/) |
+| ![Descendant](https://downloads.descendant.me/images/logo.png) | Descendant | [Provide a description here.] | [Downloads](https://downloads.descendant.me/) |
+| ![DotOS](https://www.droidontime.com/img/logo.png) | DotOS (Droid On Time) | [Provide a description here.] | [Website](https://www.droidontime.com/) |
+| ![Evolution X](https://evolution-x.org/images/logo.png) | Evolution X | [Provide a description here.] | [Website](https://evolution-x.org/) |
+| ![ExthmUI](https://github.com/exthmui/assets/blob/master/logo/logo.png) | ExthmUI | [Provide a description here.] | [GitHub](https://github.com/exthmui) |
+| ![Fork LineageOS](https://avatars.githubusercontent.com/u/25217713?s=200&v=4) | Fork LineageOS | [Provide a description here.] | [GitHub](https://github.com/ForkLineageOS) |
+| ![GenesisOS](https://avatars.githubusercontent.com/u/137330039?s=200&v=4) | GenesisOS | A Custom After Market OS based on AOSP with quality of life features to enhance the user experience. | [Website](https://www.genesisos.dev/), [GitHub](https://github.com/GenesisOS), [Telegram](https://telegram.me/thegenesisOS), [X](https://x.com/TheGenesisOS) |
+| ![GrapheneOS](https://avatars.githubusercontent.com/u/48847184?s=200&v=4) | GrapheneOS | A privacy and security-focused mobile operating system for selected Google Pixel smartphones. | [Website](https://grapheneos.org/) |
+| ![Havoc OS](https://avatars.githubusercontent.com/u/39052374?s=200&v=4) | Havoc OS | [Provide a description here.] | [Website](https://havoc-os.com/) |
+| ![Hentai OS](https://avatars.githubusercontent.com/u/60895608?s=200&v=4) | Hentai OS | [Provide a description here.] | [Wiki](https://wiki.helluvaos.com/) |
+| ![Hycon OS](https://github.com/HyconOS/assets/raw/master/logo/logo.png) | Hycon OS | [Provide a description here.] | [GitHub](https://github.com/HyconOS) |
+| ![iode OS](https://iode.tech/iodeos-en/assets/images/logo.png) | iode OS | An Android operating system freed from Google trackers, powered by LineageOS. | [Website](https://iode.tech/iodeos-en/) |
+| ![LegionOS](https://sourceforge.net/projects/legionrom/files/LEGION-OS-LIVE-v1.3/LEGION-OS-Project-Live-Wallpaper-1.3.2-beta-5/assets/images/logo.png) | LegionOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/legionrom/) |
+| ![LineageOS](https://lineageos.org/images/logo.png) | LineageOS | [Provide a description here.] | [Website](https://lineageos.org/) |
+| ![NusantaraProject](https://nusantararom.org/assets/images/logo.png) | NusantaraProject | [Provide a description here.] | [Website](https://nusantararom.org/) |
+| ![OctaviOS](https://octavi-os.com/assets/images/logo.png) | OctaviOS | [Provide a description here.] | [Website](https://octavi-os.com/) |
+| ![Palladium OS](https://palladiumos.com/assets/images/logo.png) | Palladium OS | [Provide a description here.] | [Website](https://palladiumos.com/) |
+| ![Paranoid Android](https://paranoidandroid.co/assets/images/logo.png) | Paranoid Android | [Provide a description here.] | [Website](https://paranoidandroid.co/) |
+| ![Pixel Blaster](https://sourceforge.net/projects/pixelblaster-os/files/Releases/logo.png) | Pixel Blaster | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/pixelblaster-os/) |
+| ![Pixel Experience](https://avatars.githubusercontent.com/u/38539471?s=200&v=4) | Pixel Experience | An AOSP-based ROM with Google apps included and all Pixel goodies. | [Downloads](https://download.pixelexperience.org/), [GitHub](https://github.com/PixelExperience) |
+| ![Pixel Extended](https://avatars.githubusercontent.com/u/62373445?s=200&v=4) | Pixel Extended | [Provide a description here.] | [Website](https://pixelextended.ninja/) |
+| ![Pixel OS](https://avatars.githubusercontent.com/u/82160282?s=200&v=4) | Pixel OS | PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features. | [Website](https://pixelos.net/download) |
+| ![PixelDust](https://www.pixeldust.in/assets/images/logo.png) | PixelDust | [Provide a description here.] | [Website](https://www.pixeldust.in/) |
+| ![PixelPlusUI](https://ppui.site/assets/images/logo.png) | PixelPlusUI | [Provide a description here.] | [Website](https://ppui.site/home) |
+| ![Pixys OS](https://pixysos.com/assets/images/logo.png) | Pixys OS | [Provide a description here.] | [Website](https://pixysos.com/) |
+| ![POSP](https://potatoproject.co/img/logo.png) | POSP (Potato Open Sauce Project) | [Provide a description here.] | [Website](https://potatoproject.co/) |
+| ![Project 404](https://github.com/P-404/assets/raw/main/logo.png) | Project 404 | [Provide a description here.] | [GitHub](https://github.com/P-404) |
+| ![Project Arcana](https://sourceforge.net/projects/project-arcana-releases/files/logo.png) | Project Arcana | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-arcana-releases/) |
+| ![Project Awaken](https://sourceforge.net/projects/project-awaken/files/logo.png) | Project Awaken | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-awaken/) |
+| ![Project Blaze](https://www.projectblaze.live/assets/images/logo.png) | Project Blaze | [Provide a description here.] | [Website](https://www.projectblaze.live/) |
+| ![Project Elixr](https://projectelixiros.com/assets/images/logo.png) | Project Elixr | [Provide a description here.] | [Website](https://projectelixiros.com/home) |
+| ![Project Fluid](https://projectfluid.org/assets/images/logo.png) | Project Fluid | [Provide a description here.] | [Website](https://projectfluid.org/) |
+| ![Project Lighthouse](https://sourceforge.net/projects/project-lighthouse/files/logo.png) | Project Lighthouse | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-lighthouse/) |
+| ![Project Radiant](https://sourceforge.net/projects/projectradiant/files/logo.png) | Project Radiant | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/projectradiant/) |
+| ![Project Sakura](https://sourceforge.net/projects/projectsakura/files/logo.png) | Project Sakura | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/projectsakura/) |
+| ![RavenOS](https://raveos.com/assets/images/logo.png) | RavenOS | [Provide a description here.] | [Website](https://raveos.com/) |
+| ![Resurrection Remix](https://resurrectionremix.com/images/logo.png) | Resurrection Remix | [Provide a description here.] | [Website](https://resurrectionremix.com/) |
+| ![RevengeOS](https://revengeos.com/assets/images/logo.png) | RevengeOS | [Provide a description here.] | [Website](https://revengeos.com/) |
+| ![RiceDroid](https://avatars.githubusercontent.com/u/78840808?s=200&v=4) | RiceDroid | [Provide a description here.] | [GitHub](https://github.com/RiceDroid-devices) |
+| ![RisingOS](https://sourceforge.net/projects/risingos-official/files/logo.png) | RisingOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/risingos-official/) |
+| ![ShapeShift OS](https://sourceforge.net/projects/shapeshiftos/files/logo.png) | ShapeShift OS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/shapeshiftos/) |
+| ![SigmaDroid OS](https://sigmadroid.xyz/assets/images/logo.png) | SigmaDroid OS | A custom AOSP ROM with its own development approach. | [Website](https://sigmadroid.xyz/), [GitHub](https://github.com/SigmaDroid-Project), [Telegram](https://t.me/SigmaDroidROMChat) |
+| ![Spark OS](https://spark-os.live/assets/images/logo.png) | Spark OS | [Provide a description here.] | [Website](https://spark-os.live/) |
+| ![StatiXOS](https://avatars.githubusercontent.com/u/79008055?s=200&v=4) | StatiXOS | [Provide a description here.] | [GitHub](https://github.com/StatiXOS) |
+| ![SomethingOS](https://somethingos.com/assets/images/logo.png) | Something OS | A custom ROM based on CLO, offering exclusive features like AdBlocker and Boot Animation changer. | [Website](https://somethingos.com/), [GitHub](https://github.com/SomethingOS) |
+| ![Superior OS](https://sourceforge.net/projects/superioros/files/logo.png) | Superior OS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/superioros/) |
+| ![VoltageOS](https://sourceforge.net/projects/voltage-os/files/logo.png) | VoltageOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/voltage-os/) |
+| ![WaveOS](https://sourceforge.net/projects/wave-os/files/logo.png) | WaveOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/wave-os/) |
+| ![XPerience CAF](https://sourceforge.net/projects/xperience-aosp/files/logo.png) | XPerience CAF | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/xperience-aosp/) |
+| ![XPerience CAF](https://sourceforge.net/projects/xperience-aosp/files/logo.png) | XPerience CAF | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/xperience-aosp/) |
+| ![Xtended XS](https://project-xtended.org/assets/images/logo.png) | Xtended XS | Custom ROM redefined. | [Website](https://project-xtended.org/), [GitHub](https://github.com/Project-Xtended) |
+| ![YAAP](https://avatars.githubusercontent.com/u/70501337?s=200&v=4) | YAAP (Yet Another AOSP Project) | A project aiming to stay close to AOSP design goals, offer a clean interface, and avoid becoming a mess. | [Website](https://yaosp.dev/), [Telegram](https://t.me/yaapcommon) |
