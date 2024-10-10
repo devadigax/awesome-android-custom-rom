@@ -24,7 +24,7 @@
 | ![Havoc OS](https://avatars.githubusercontent.com/u/39052374?s=200&v=4) | Havoc OS | [Provide a description here.] | [Website](https://havoc-os.com/) |
 | ![Hentai OS](https://avatars.githubusercontent.com/u/60895608?s=200&v=4) | Hentai OS | [Provide a description here.] | [Wiki](https://wiki.helluvaos.com/) |
 | ![Hycon OS](https://avatars.githubusercontent.com/u/77374241?s=200&v=4) | Hycon OS | [Provide a description here.] | [GitHub](https://github.com/HyconOS) |
-| ![iode OS](https://avatars.githubusercontent.com/u/64069373?s=200&v=4) | iode OS | An Android operating system freed from Google trackers, powered by LineageOS. | [Website](https://iode.tech/iodeos-en/) |
+| ![iode OS](https://community.iode.tech/uploads/default/original/1X/d896adf34d006221f107aca32fab7315879dca68.png) | Iodé OS | An Android operating system freed from Google trackers, powered by LineageOS. | [Website](https://iode.tech/iodeos-en/) |
 | ![LegionOS](https://avatars.githubusercontent.com/u/129252467?s=200&v=4) | LegionOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/legionrom/) |
 | ![LineageOS](https://avatars.githubusercontent.com/u/24304779?s=200&v=4) | LineageOS | [Provide a description here.] | [Website](https://lineageos.org/) |
 | ![NusantaraProject](https://avatars.githubusercontent.com/u/75668745?s=200&v=4) | NusantaraProject | [Provide a description here.] | [Website](https://nusantararom.org/) |
