@@ -37,11 +37,11 @@
 | ![Pixel OS](https://avatars.githubusercontent.com/u/82160282?s=200&v=4) | Pixel OS | PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features. | [Website](https://pixelos.net/download) |
 | ![PixelPlusUI](https://avatars.githubusercontent.com/u/68111893?s=200&v=4) | PixelPlusUI | [Provide a description here.] | [Website](https://ppui.site/home) |
 | ![Pixys OS](https://avatars.githubusercontent.com/u/41550093?s=200&v=4) | Pixys OS | [Provide a description here.] | [Website](https://pixysos.com/) |
-| ![POSP](https://potatoproject.co/img/logo.png) | POSP (Potato Open Sauce Project) | [Provide a description here.] | [Website](https://potatoproject.co/) |
-| ![Project 404](https://github.com/P-404/assets/raw/main/logo.png) | Project 404 | [Provide a description here.] | [GitHub](https://github.com/P-404) |
-| ![Project Arcana](https://sourceforge.net/projects/project-arcana-releases/files/logo.png) | Project Arcana | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-arcana-releases/) |
-| ![Project Awaken](https://sourceforge.net/projects/project-awaken/files/logo.png) | Project Awaken | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-awaken/) |
-| ![Project Blaze](https://www.projectblaze.live/assets/images/logo.png) | Project Blaze | [Provide a description here.] | [Website](https://www.projectblaze.live/) |
+| ![POSP](https://avatars.githubusercontent.com/u/39707412?s=200&v=4) | POSP (Potato Open Sauce Project) | [Provide a description here.] | [GitHub](https://github.com/PotatoProject) |
+| ![Project 404](https://avatars.githubusercontent.com/u/65570826?s=200&v=4) | Project 404 | [Provide a description here.] | [GitHub](https://github.com/P-404) |
+| ![Project Arcana](https://avatars.githubusercontent.com/u/95838838?s=200&v=4) | Project Arcana | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-arcana-releases/), [GitHub](https://github.com/projectarcana-aosp) |
+| ![Project Awaken](https://avatars.githubusercontent.com/u/68725628?s=200&v=4) | Project Awaken | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-awaken/), [GitHub](https://github.com/Project-Awaken) |
+| ![Project Blaze](https://avatars.githubusercontent.com/u/100671683?s=200&v=4) | Project Blaze | [Provide a description here.] | [Website](https://www.projectblaze.in/), [GitHub](https://github.com/ProjectBlaze/) |
 | ![Project Elixr](https://projectelixiros.com/assets/images/logo.png) | Project Elixr | [Provide a description here.] | [Website](https://projectelixiros.com/home) |
 | ![Project Fluid](https://projectfluid.org/assets/images/logo.png) | Project Fluid | [Provide a description here.] | [Website](https://projectfluid.org/) |
 | ![Project Lighthouse](https://sourceforge.net/projects/project-lighthouse/files/logo.png) | Project Lighthouse | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/project-lighthouse/) |
@@ -51,16 +51,15 @@
 | ![Resurrection Remix](https://avatars.githubusercontent.com/u/4931972?s=200&v=4) | Resurrection Remix | [Provide a description here.] | [Website](https://resurrectionremix.com/) |
 | ![RevengeOS](https://avatars.githubusercontent.com/u/39199926?s=200&v=4) | RevengeOS | [Provide a description here.] | [Website](https://revengeos.com/) |
 | ![RiceDroid](https://avatars.githubusercontent.com/u/78840808?s=200&v=4) | RiceDroid | [Provide a description here.] | [GitHub](https://github.com/RiceDroid-devices) |
-| ![RisingOS](https://sourceforge.net/projects/risingos-official/files/logo.png) | RisingOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/risingos-official/) |
-| ![ShapeShift OS](https://sourceforge.net/projects/shapeshiftos/files/logo.png) | ShapeShift OS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/shapeshiftos/) |
-| ![SigmaDroid OS](https://sigmadroid.xyz/assets/images/logo.png) | SigmaDroid OS | A custom AOSP ROM with its own development approach. | [Website](https://sigmadroid.xyz/), [GitHub](https://github.com/SigmaDroid-Project), [Telegram](https://t.me/SigmaDroidROMChat) |
-| ![Spark OS](https://spark-os.live/assets/images/logo.png) | Spark OS | [Provide a description here.] | [Website](https://spark-os.live/) |
+| ![RisingOS](https://avatars.githubusercontent.com/u/121661057?s=200&v=4) | RisingOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/risingos-official/), [Website](https://risingos-staging.github.io/), [GitHub](https://github.com/RisingTechOSS) |
+| ![ShapeShift OS](https://a.fsdn.com/allura/p/shapeshiftos/icon?1683355137?&w=180) | ShapeShift OS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/shapeshiftos/) |
+| ![SigmaDroid OS](https://avatars.githubusercontent.com/u/136256191?s=200&v=4) | SigmaDroid OS | A custom AOSP ROM with its own development approach. | [Website](https://sigmadroid.xyz/), [GitHub](https://github.com/SigmaDroid-Project), [Telegram](https://t.me/SigmaDroidROMChat) |
+| ![Spark OS](https://avatars.githubusercontent.com/u/77549049?s=200&v=4) | Spark OS | AOSP based rom with customizations, mainly focused on stability and most of all smoothness. | [Website](https://spark-os.live/),[GitHub](https://github.com/Spark-Rom) |
 | ![StatiXOS](https://avatars.githubusercontent.com/u/79008055?s=200&v=4) | StatiXOS | [Provide a description here.] | [GitHub](https://github.com/StatiXOS) |
 | ![SomethingOS](https://avatars.githubusercontent.com/u/159722889?s=200&v=4) | Something OS | A custom ROM based on CLO, offering exclusive features like AdBlocker and Boot Animation changer. | [Website](https://somethingos.com/), [GitHub](https://github.com/SomethingOS) |
 | ![Superior OS](https://avatars.githubusercontent.com/u/43355064?s=200&v=4) | Superior OS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/superioros/) |
 | ![VoltageOS](https://avatars.githubusercontent.com/u/81792437?s=200&v=4) | VoltageOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/voltage-os/) |
 | ![WaveOS](https://avatars.githubusercontent.com/u/51861440?s=200&v=4) | WaveOS | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/wave-os/) |
-| ![XPerience CAF](https://sourceforge.net/projects/xperience-aosp/files/logo.png) | XPerience CAF | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/xperience-aosp/) |
-| ![XPerience CAF](https://sourceforge.net/projects/xperience-aosp/files/logo.png) | XPerience CAF | [Provide a description here.] | [SourceForge](https://sourceforge.net/projects/xperience-aosp/) |
-| ![Xtended XS](https://project-xtended.org/assets/images/logo.png) | Xtended XS | Custom ROM redefined. | [Website](https://project-xtended.org/), [GitHub](https://github.com/Project-Xtended) |
+| ![XPerience CAF](https://avatars.githubusercontent.com/u/35016456?s=200&v=4) | XPerience CAF | CAF based ROM. | [SourceForge](https://sourceforge.net/projects/xperience-aosp/), [GitHub](https://github.com/TheXperienceProject) |
+| ![Xtended XS](https://avatars.githubusercontent.com/u/35887036?s=200&v=4) | Xtended XS | Custom ROM redefined. | [Website](https://project-xtended.org/), [GitHub](https://github.com/Project-Xtended) |
 | ![YAAP](https://avatars.githubusercontent.com/u/70501337?s=200&v=4) | YAAP (Yet Another AOSP Project) | A project aiming to stay close to AOSP design goals, offer a clean interface, and avoid becoming a mess. | [Website](https://yaosp.dev/), [Telegram](https://t.me/yaapcommon) |
